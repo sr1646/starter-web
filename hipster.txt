@@ -1,0 +1,4 @@
+Like any other error detection methodology, static analysis has its strong and weak points. You should understand that there are no ideal software testing methods. Different methods will produce different results for different software classes. Only the combination of various methods will enable you to achieve the highest quality in your software.
+
+The main advantage of static analysis is this: it enables you to greatly reduce the cost of eliminating defects in software. The earlier an error is detected, the lower the cost of fixing it. Thus, according to the data given in the book "Code Complete" by McConnell, fixing an error at the stage of testing costs ten times more than at the code writing stage:
+
